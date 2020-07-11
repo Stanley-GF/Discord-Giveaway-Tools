@@ -4,3 +4,10 @@ this software allows you to create fake or real giveaways with a simple user int
 ![Alt text](https://cdn.discordapp.com/attachments/730020310119612470/731542367294980106/unknown.png "Image2")
 
 ![Alt text](https://cdn.discordapp.com/attachments/730020310119612470/731542680731123712/unknown.png "Image1")
+
+# Features
+
+* Create fake giveaway
+  * Create a fake giveaway, u choice the winner, the channel, the price and the time
+  
+
