@@ -11,7 +11,12 @@ this software allows you to create fake or real giveaways with a simple user int
   * Create a fake giveaway, you choice the winner, the channel, the price and the time
 * Create real giveaway
   * Create giveaway with a price, a time remaining etc...
-  
+# If you want to use the source code
+Install : 
+- Discord.net (in package nuget)
+- Colorful
+ *See not steal*
+ 
 # Usage
 
 Step 1 : Open the software and enter the bot token
