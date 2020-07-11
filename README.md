@@ -8,6 +8,29 @@ this software allows you to create fake or real giveaways with a simple user int
 # Features
 
 * Create fake giveaway
-  * Create a fake giveaway, u choice the winner, the channel, the price and the time
+  * Create a fake giveaway, you choice the winner, the channel, the price and the time
+* Create real giveaway
+  * Create giveaway with a price, a time remaining etc...
   
+# Usage
+
+Step 1 : Open the software and enter the bot token
+
+Step 2 : Choice option 1 for fake giveaway / option 2 for real giveaway
+
+Step 3 : Enter the channel ID
+
+Step 4 : (if selected fake giveaway) Enter the winner name 
+
+Step 5 : Enter price of the winner
+
+Step 6 : Giveaway start in ... *ms*. 1000ms = 1sec, 60000 ms = 1 minute, 60000 = 1h
+
+Step 7 : wait with the prog open the time u selected
+
+Step 8 : Enjoy !
+
+# Screenshot
+![Alt text](https://cdn.discordapp.com/attachments/730020310119612470/731544775232323624/unknown.png "Image2")
+![Alt text](https://cdn.discordapp.com/attachments/730020310119612470/731544988730654720/unknown.png "Image2")
 
