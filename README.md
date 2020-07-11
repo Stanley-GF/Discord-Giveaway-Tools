@@ -1,5 +1,5 @@
 # Discord Giveaway tool
-this software allows you to create fake or real giveaways with a simple user interface. Like this
+this software allows you to create fake or real giveaways with a simple user interface.  [**Direct download**](https://github.com/Stanley-GF/Discord-Giveaway-Tools/releases/download/1.0.0.0/Discord.Giveaway.bot.rar)<br>. Like this.
 
 ![Alt text](https://cdn.discordapp.com/attachments/730020310119612470/731542367294980106/unknown.png "Image2")
 
