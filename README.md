@@ -15,7 +15,8 @@ this software allows you to create fake or real giveaways with a simple user int
 Install : 
 - Discord.net (in package nuget)
 - Colorful
- *See not steal*
+
+ **See not steal**
  
 # Usage
 
